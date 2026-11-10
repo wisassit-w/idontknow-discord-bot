@@ -1,0 +1,21 @@
+{
+  "name": "discord-shop-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot ร้านค้าขายของอัตโนมัติ 24 ชม. + ระบบเติมเงิน (Top-up)",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "deploy": "node src/deploy-commands.js"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

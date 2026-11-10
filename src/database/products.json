@@ -1,0 +1,44 @@
+{
+  "categories": [
+    {
+      "id": "netflix",
+      "name": "🎬 Netflix Account",
+      "emoji": "🎬",
+      "products": [
+        {
+          "id": "netflix_1m",
+          "name": "Netflix Premium 1 เดือน",
+          "price": 49,
+          "description": "บัญชี Netflix Premium ใช้งานได้ 1 เดือน (1 โปรไฟล์)",
+          "stock": [
+            "user1@example.com:PassWord1",
+            "user2@example.com:PassWord2"
+          ]
+        },
+        {
+          "id": "netflix_3m",
+          "name": "Netflix Premium 3 เดือน",
+          "price": 129,
+          "description": "บัญชี Netflix Premium ใช้งานได้ 3 เดือน (1 โปรไฟล์)",
+          "stock": []
+        }
+      ]
+    },
+    {
+      "id": "game_key",
+      "name": "🎮 Game Key",
+      "emoji": "🎮",
+      "products": [
+        {
+          "id": "valorant_key",
+          "name": "Valorant Points 1000",
+          "price": 250,
+          "description": "โค้ดเติม Valorant Points 1000 แต้ม",
+          "stock": [
+            "VAL-XXXX-YYYY-ZZZZ"
+          ]
+        }
+      ]
+    }
+  ]
+}

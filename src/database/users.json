@@ -1,0 +1,197 @@
+{
+  "123456789012345678": {
+    "user_id": "123456789012345678",
+    "balance": 150.5,
+    "history": [
+      {
+        "type": "topup",
+        "method": "truemoney",
+        "amount": 100,
+        "timestamp": "2026-09-01T10:00:00.000Z"
+      },
+      {
+        "type": "purchase",
+        "product": "Netflix Premium 1 เดือน",
+        "amount": -49.5,
+        "timestamp": "2026-09-02T14:30:00.000Z"
+      }
+    ]
+  },
+  "814114304952762368": {
+    "user_id": "814114304952762368",
+    "balance": 146,
+    "history": [
+      {
+        "type": "topup",
+        "method": "manual_or_slip",
+        "amount": 199,
+        "timestamp": "2026-09-17T09:51:02.783Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -29,
+        "timestamp": "2026-09-17T09:51:38.672Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -24,
+        "timestamp": "2026-09-17T17:43:46.488Z"
+      }
+    ]
+  },
+  "1033347283858755655": {
+    "user_id": "1033347283858755655",
+    "balance": 110394,
+    "history": [
+      {
+        "type": "topup",
+        "method": "manual_or_slip",
+        "amount": 29,
+        "timestamp": "2026-09-17T09:53:19.529Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -29,
+        "timestamp": "2026-09-17T09:55:34.346Z"
+      },
+      {
+        "type": "topup",
+        "method": "manual_or_slip",
+        "amount": 100,
+        "timestamp": "2026-09-17T10:30:34.934Z"
+      },
+      {
+        "type": "topup",
+        "method": "manual_or_slip",
+        "amount": 100,
+        "timestamp": "2026-09-17T10:36:48.811Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -24,
+        "timestamp": "2026-09-17T17:49:28.812Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -9,
+        "timestamp": "2026-09-18T09:04:15.091Z"
+      },
+      {
+        "type": "topup",
+        "method": "manual_or_slip",
+        "amount": 1000,
+        "timestamp": "2026-09-18T09:33:21.807Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -9,
+        "timestamp": "2026-09-18T09:33:29.409Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -9,
+        "timestamp": "2026-09-18T09:37:07.623Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -229,
+        "timestamp": "2026-09-18T09:42:45.244Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -229,
+        "timestamp": "2026-09-18T09:45:55.658Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -229,
+        "timestamp": "2026-09-18T09:48:48.514Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -29,
+        "timestamp": "2026-09-18T09:49:41.127Z"
+      },
+      {
+        "type": "topup",
+        "method": "manual_or_slip",
+        "amount": 111111,
+        "timestamp": "2026-09-18T09:51:42.180Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -229,
+        "timestamp": "2026-09-18T09:52:04.430Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -29,
+        "timestamp": "2026-09-18T09:52:13.317Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -29,
+        "timestamp": "2026-09-18T09:55:18.701Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -29,
+        "timestamp": "2026-09-18T12:22:37.612Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -29,
+        "timestamp": "2026-09-18T12:25:31.830Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -19,
+        "timestamp": "2026-09-18T12:28:52.247Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -229,
+        "timestamp": "2026-09-18T12:37:22.791Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -299,
+        "timestamp": "2026-09-18T12:38:52.505Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -229,
+        "timestamp": "2026-09-18T12:41:19.829Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -29,
+        "timestamp": "2026-09-23T10:18:39.098Z"
+      }
+    ]
+  },
+  "708712166936543352": {
+    "user_id": "708712166936543352",
+    "balance": 10,
+    "history": [
+      {
+        "type": "topup",
+        "method": "manual_or_slip",
+        "amount": 29,
+        "timestamp": "2026-09-17T10:23:36.828Z"
+      },
+      {
+        "type": "purchase",
+        "amount": -29,
+        "timestamp": "2026-09-17T10:24:38.597Z"
+      },
+      {
+        "type": "topup",
+        "method": "truemoney",
+        "voucher_hash": "01a0af030fcf7efd844397de55ed916e56O",
+        "amount": 10,
+        "timestamp": "2026-09-17T10:57:55.520Z"
+      }
+    ]
+  }
+}

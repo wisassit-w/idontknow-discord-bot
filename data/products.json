@@ -1,0 +1,64 @@
+[
+  {
+    "id": "cat_setting",
+    "name": "Setting Services",
+    "emoji": "⚡",
+    "products": [
+      {
+        "id": "item_internet_niran",
+        "name": "Internet Niran",
+        "price": 229,
+        "emoji": "🌐",
+        "type": "license_key",
+        "roleId": "1550441467749736498",
+        "description": "ตัวรำจัด วงนัวออกง่าย รีตัวไว ลดดีเลย์ ปิงต่ำ ไม่โดนแบน",
+        "clipUrl": "https://www.facebook.com/share/v/1DSWsq5wRX/",
+        "stock": [
+          "NIRAN-KEY-01",
+          "NIRAN-KEY-02"
+        ]
+      },
+      {
+        "id": "item_setting_idontknow",
+        "name": "Setting IDONTKNOW",
+        "price": 299,
+        "emoji": "⚡",
+        "type": "ticket_service",
+        "roleId": "1550441389769232454",
+        "description": "เซ็ตติ้งระบบคอมและ FiveM ฉบับเต็ม เฟรมเรตนิ่ง ลดแล็กสูงสุด",
+        "stock": []
+      }
+    ]
+  },
+  {
+    "id": "cat_reshade",
+    "name": "Reshade Presets",
+    "emoji": "✨",
+    "products": [
+      {
+        "id": "item_dontcry_v1",
+        "name": "Dontcry V1",
+        "price": 29,
+        "emoji": "✨",
+        "type": "role_download",
+        "roleId": "1550079711735062528",
+        "description": "ถ่ายรูปดูมิติ / แสงเงาสวย / มืดๆมูดๆ",
+        "stock": [
+          "ROLE_BASED"
+        ]
+      },
+      {
+        "id": "item_dontcry_v2",
+        "name": "Dontcry V2",
+        "price": 29,
+        "emoji": "✨",
+        "type": "role_download",
+        "roleId": "1550441212186722434",
+        "description": "พรีเซ็ตรีเชด V2 คุมโทนภาพยนตร์ แสงเงาคม",
+        "stock": [
+          "ROLE_BASED"
+        ]
+      }
+    ]
+  }
+]

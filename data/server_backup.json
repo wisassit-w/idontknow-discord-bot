@@ -1,0 +1,276 @@
+{
+  "guildName": "𝙸𝙳𝙾𝙽𝚃𝙺𝙽𝙾𝚆 𝚂𝙷𝙾𝙿",
+  "roles": [
+    {
+      "name": "⟡・Admin",
+      "color": 14935528,
+      "hoist": true,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "✦・Staff",
+      "color": 11909825,
+      "hoist": true,
+      "permissions": "8",
+      "mentionable": false
+    },
+    {
+      "name": "◈・Partner",
+      "color": 9739172,
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": "◈・Customer",
+      "color": 7634829,
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": "👤・Member",
+      "color": 5132376,
+      "hoist": true,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": "✦ ⋆ 𝓕𝓻𝓮𝓮 𝓐𝓬𝓬𝓮𝓼𝓼",
+      "color": 14811036,
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    },
+    {
+      "name": "dontcry v1",
+      "color": 526344,
+      "hoist": false,
+      "permissions": "0",
+      "mentionable": false
+    }
+  ],
+  "structure": [
+    {
+      "name": "⋆ ₊ lobby",
+      "type": 4,
+      "children": [
+        {
+          "name": "⋆・welcome",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "₊・get-role",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "╰・dot",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        }
+      ]
+    },
+    {
+      "name": "⋆ ₊ general",
+      "type": 4,
+      "children": [
+        {
+          "name": "⋆・announce",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "╰・contact",
+          "type": 2,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "₊・discord・link",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        }
+      ]
+    },
+    {
+      "name": "⋆ ₊ community",
+      "type": 4,
+      "children": [
+        {
+          "name": "⋆・chat",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "⋆・review",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "╰・highlight",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        }
+      ]
+    },
+    {
+      "name": "⋆ ₊ ticket",
+      "type": 4,
+      "children": []
+    },
+    {
+      "name": "⋆ ₊ ticketcomplete",
+      "type": 4,
+      "children": []
+    },
+    {
+      "name": "⋆ ₊ order",
+      "type": 4,
+      "children": [
+        {
+          "name": "⋆・promotion",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "⋆・affiliate",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "⋆・auto-buy",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "₊・ticket",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "₊・payment",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "╰・slip-check",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        }
+      ]
+    },
+    {
+      "name": "⋆ ₊ free reward",
+      "type": 4,
+      "children": [
+        {
+          "name": "⋆・event-info",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "⋆・claim-role",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "╰・free-source",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        }
+      ]
+    },
+    {
+      "name": "⋆ ₊ setting",
+      "type": 4,
+      "children": [
+        {
+          "name": "⊹・setting-idontknow",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "╰・internet-niran",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        }
+      ]
+    },
+    {
+      "name": "⋆ ₊ more product",
+      "type": 4,
+      "children": [
+        {
+          "name": "⟡・reshade",
+          "type": 15,
+          "topic": null,
+          "nsfw": false
+        }
+      ]
+    },
+    {
+      "name": "⋆ ₊ reshade",
+      "type": 4,
+      "children": [
+        {
+          "name": "𝙳𝚘𝚗𝚝𝚌𝚛𝚢-𝚅𝟷",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        }
+      ]
+    },
+    {
+      "name": "⋆ ₊ windows",
+      "type": 4,
+      "children": [
+        {
+          "name": "⬞・atlas-os",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "⬞・kermel-os",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "⬞・aura-os",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        },
+        {
+          "name": "╰・windows-10-11",
+          "type": 0,
+          "topic": null,
+          "nsfw": false
+        }
+      ]
+    }
+  ]
+}
